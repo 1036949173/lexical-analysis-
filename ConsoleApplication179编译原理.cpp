@@ -1,6 +1,6 @@
 ﻿// ConsoleApplication179编译原理.cpp : 此文件包含 "main" 函数。程序执行将在此处开始并结束。
 //
-//开发语言：c++ & c#
+//开发语言：c++(处理程序) & c#(界面)
 //开发环境 Visual Studio 2017
 
 #include "pch.h"
